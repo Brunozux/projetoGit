@@ -13,3 +13,7 @@ a {
     
     color: rgb(255, 0, 0);
 }
+
+li {
+    list-style-type: disc;
+}
